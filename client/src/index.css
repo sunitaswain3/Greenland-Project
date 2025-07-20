@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-r from-[#f6d365] via-[#fda085] to-[#fbc2eb] min-h-screen;
+}
